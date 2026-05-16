@@ -44,13 +44,9 @@ Blender Version 3.4
 
 # Rendering Settings
 
-Engine: Eevee  
+Engine: Cycles  
 
-Sampling: 64  
-
-Bloom: Enabled  
-
-Screen Space Reflections: Enabled  
+Sampling: 1024
 
 Resolution: 4096×4096 (4K)  
 
@@ -119,13 +115,9 @@ Blender バージョン 3.4
 
 # レンダリング設定
 
-レンダリングエンジン：Eevee  
+レンダリングエンジン：Cycles  
 
-サンプリング数：64  
-
-Bloom：有効  
-
-スクリーンスペース反射：有効  
+サンプリング数：1024
 
 解像度：4096×4096（4K）  
 
