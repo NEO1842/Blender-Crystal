@@ -1,46 +1,42 @@
-<h1 align="center">Blender Force</h1>
+<h1 align="center">Blender Crystal</h1>
 
 <p align="center">
-✨ Visualize dynamic particle flow shaped by invisible forces.
+✨ Procedural crystal material and lighting created in Blender.
 </p>
 
 <p align="center">
----English---     Click the image to watch the animation.
+---English---     Crystal artwork preview.
 </p>
 
 <div align="center">
-<a href="https://drive.google.com/file/d/1DLz75usqQZGZmFHU-wFkzmowNg3BZymI/view?usp=sharing">
-<img src="Blender%20Force/Force.png" width="600">
+<a href="Blender-Crystal/Crystal.png">
+<img src="Blender-Crystal/Crystal.png" width="600">
 </a>
-</p>
-
 </div>
 
-# Blender-Force
+# Blender-Crystal
 
-A particle-based visual scene created in Blender using force fields.
+A crystal-based visual scene created in Blender using procedural materials
+and cinematic lighting.
 
 # Overview
 
-This project is a Blender scene designed to visualize the flow of particles
-controlled by force fields.
+This project is a Blender scene designed to explore crystal-like materials,
+transparent surfaces, and reflective lighting setups.
 
-Particles behave like streams of energy, continuously guided and transformed
-by invisible forces, forming fluid and evolving patterns.
+The crystal structure reacts to surrounding light and reflections,
+creating a clean and atmospheric visual appearance.
 
-The system uses force and vortex fields to generate organic motion
-and immersive visual dynamics.
-
-The scene can be freely modified and used for learning particle systems,
-force field control, and procedural motion design.
+The project can be freely modified and used for learning procedural materials,
+lighting composition, and rendering techniques in Blender.
 
 ## Features
 
-- Force field-driven particle system  
-- Smooth and continuous flow motion  
-- Organic and procedural animation  
-- Customizable field strength and behavior  
-- Suitable for visual experimentation  
+- Procedural crystal material  
+- Transparent and reflective surfaces  
+- Cinematic lighting setup  
+- Bloom and glow effects  
+- Suitable for material and lighting experiments  
 
 # Software Requirement
 
@@ -54,9 +50,11 @@ Sampling: 64
 
 Bloom: Enabled  
 
+Screen Space Reflections: Enabled  
+
 Resolution: 4096×4096 (4K)  
 
-Output Format: MP4 (H.264)  
+Output Format: PNG  
 
 # Author
 
@@ -73,50 +71,47 @@ This project is licensed under the MIT License.
 
 ---
 
-<h1 align="center">Blender Force</h1>
+<h1 align="center">Blender Crystal</h1>
 
 <p align="center">
-✨ 見えない力によって形作られる粒子の流れを可視化します。
+✨ Blenderで制作したクリスタル表現とライティングシーン。
 </p>
 
 <p align="center">
----日本語---     画像をクリックするとアニメーションが再生されます。
+---日本語---     クリスタル作品プレビュー
 </p>
 
 <div align="center">
-<a href="https://drive.google.com/file/d/1DLz75usqQZGZmFHU-wFkzmowNg3BZymI/view?usp=sharing">
-<img src="Blender%20Force/Force.png" width="600">
+<a href="Blender-Crystal/Crystal.png">
+<img src="Blender-Crystal/Crystal.png" width="600">
 </a>
-</p>
-
 </div>
 
-# Blender-Force
+# Blender-Crystal
 
-フォースフィールドを用いて粒子の流れを制御するBlenderシーンです。
+プロシージャルマテリアルとシネマティックライティングを使用した
+Blender製のクリスタルシーンです。
 
 # 概要
 
-このプロジェクトは、フォースフィールドによって粒子の流れを制御し、
-その動きを可視化するためのBlenderシーンです。
+このプロジェクトは、
+クリスタルのような透明感・反射表現・ライティング構成を
+実験するために制作されたBlenderシーンです。
 
-粒子はエネルギーの流れのように振る舞い、
-見えない力によって導かれながら、
-流動的で変化し続けるパターンを形成します。
+クリスタルは周囲の光や反射に反応し、
+幻想的で美しいビジュアルを作り出します。
 
-フォースや渦の影響により、
-有機的で没入感のある動きが生み出されます。
-
-Blenderのパーティクルシステムやフォースフィールドの学習、
-ビジュアル表現の実験用途としても活用できます。
+Blenderにおけるマテリアル制作、
+ライティング、
+レンダリング技術の学習用途としても活用できます。
 
 ## 特徴
 
-- フォースフィールドによる粒子制御  
-- 滑らかで連続的な流れの表現  
-- 有機的でプロシージャルなアニメーション  
-- フィールドの強さや挙動の調整が可能  
-- ビジュアル実験や学習用途に適している  
+- プロシージャルクリスタルマテリアル  
+- 透明感と反射表現  
+- シネマティックライティング  
+- Bloomによる発光演出  
+- マテリアル・ライティング実験向け  
 
 # ソフトウェア要件
 
@@ -128,11 +123,13 @@ Blender バージョン 3.4
 
 サンプリング数：64  
 
-ブルーム：有効  
+Bloom：有効  
+
+スクリーンスペース反射：有効  
 
 解像度：4096×4096（4K）  
 
-出力形式：MP4（H.264）  
+出力形式：PNG  
 
 # 著者
 
@@ -142,6 +139,7 @@ Blender バージョン 3.4
 
 このプロジェクトは自由に改変・使用できます。
 
-再配布する場合（改変を含む）は、このリポジトリへのリンクを記載してください。
+再配布する場合（改変を含む）は、
+このリポジトリへのリンクを記載してください。
 
 本プロジェクトはMITライセンスに基づいて公開されています。
