@@ -10,7 +10,7 @@
 
 <div align="center">
 <a href="Blender-Crystal/Crystal.png">
-<img src="Blender-Crystal/Crystal.png" width="600">
+<img src="Blender%20Crystal/Crystal.png" width="600">
 </a>
 </div>
 
@@ -83,7 +83,7 @@ This project is licensed under the MIT License.
 
 <div align="center">
 <a href="Blender-Crystal/Crystal.png">
-<img src="Blender-Crystal/Crystal.png" width="600">
+<img src="Blender%20Crystal/Crystal.png" width="600">
 </a>
 </div>
 
