@@ -25,7 +25,9 @@ The scene focuses on colorful emissive crystals, soft lighting, and abstract ene
 ## レンダリング設定
 
 - レンダリングエンジン: Cycles
+
 - サンプリングレート: 1024
+
 - ノイズ除去: 有効
 
 ![Preview](Crystal.png)
